@@ -63,6 +63,14 @@ To set up the Document Processing and Chatbot Interaction Pipeline, follow these
 5. Ask questions
    ![Screenshot 2024-06-08 125610](https://github.com/Manu-N-S/DocuBot/assets/98375679/28945ae8-660b-4ffe-a12e-324ffd49a231)
 
+##DEMO VIDEO
+
+
+https://github.com/Manu-N-S/DocuBot/assets/98375679/4d21ba4e-fd06-4405-ba59-77f69cbdbeaa
+
+
+
+
 
 ## Customization
 
