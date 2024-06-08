@@ -51,9 +51,18 @@ To set up the Document Processing and Chatbot Interaction Pipeline, follow these
 ## Usage
 
 1. Start the pipeline application.
-2. Upload or provide the path to the document you want to process.
-3. The pipeline will intelligently analyze the document, extract essential information, and present it through the chatbot interface.
-4. Interact with the chatbot to query extracted information, perform related tasks, or request additional document processing.
+   ```bash
+   python marker/convert_single.py
+   ```
+2. Run frontend
+   ```bash
+   streamlit run frontend.py
+   ```  
+4. Upload or provide the path to the document you want to process.
+   ![Screenshot 2024-06-08 125458](https://github.com/Manu-N-S/DocuBot/assets/98375679/f0e26167-8dc5-40eb-9b16-a16598f21ff0)
+5. Ask questions
+   ![Screenshot 2024-06-08 125610](https://github.com/Manu-N-S/DocuBot/assets/98375679/28945ae8-660b-4ffe-a12e-324ffd49a231)
+
 
 ## Customization
 
