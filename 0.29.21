@@ -1,0 +1,21 @@
+Collecting blosc2
+  Obtaining dependency information for blosc2 from https://files.pythonhosted.org/packages/91/6c/e43be26626f5c2b3eaff83c2b652316e0884c9733191df74aac812ef91ea/blosc2-2.6.2-cp311-cp311-win_amd64.whl.metadata
+  Downloading blosc2-2.6.2-cp311-cp311-win_amd64.whl.metadata (9.3 kB)
+Collecting cython
+  Obtaining dependency information for cython from https://files.pythonhosted.org/packages/18/ec/f47a721071d084d6c2b6783eb8d058b964b1450cb708d920d0d792f42001/Cython-3.0.10-cp311-cp311-win_amd64.whl.metadata
+  Downloading Cython-3.0.10-cp311-cp311-win_amd64.whl.metadata (3.2 kB)
+Requirement already satisfied: numpy>=1.20.3 in c:\users\asus\anaconda3\lib\site-packages (from blosc2) (1.24.3)
+Collecting ndindex>=1.4 (from blosc2)
+  Obtaining dependency information for ndindex>=1.4 from https://files.pythonhosted.org/packages/4c/1f/cbec4cb91b5aa7e44a539a92ec76293ababe9a6dd123c52a0e416d50dc81/ndindex-1.8-py3-none-any.whl.metadata
+  Downloading ndindex-1.8-py3-none-any.whl.metadata (3.4 kB)
+Requirement already satisfied: msgpack in c:\users\asus\anaconda3\lib\site-packages (from blosc2) (1.0.3)
+Requirement already satisfied: numexpr in c:\users\asus\anaconda3\lib\site-packages (from blosc2) (2.8.4)
+Requirement already satisfied: py-cpuinfo in c:\users\asus\anaconda3\lib\site-packages (from blosc2) (8.0.0)
+Downloading blosc2-2.6.2-cp311-cp311-win_amd64.whl (2.3 MB)
+   ---------------------------------------- 2.3/2.3 MB 4.0 MB/s eta 0:00:00
+Downloading Cython-3.0.10-cp311-cp311-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 11.9 MB/s eta 0:00:00
+Downloading ndindex-1.8-py3-none-any.whl (91 kB)
+   ---------------------------------------- 91.2/91.2 kB 5.4 MB/s eta 0:00:00
+Installing collected packages: ndindex, cython, blosc2
+Successfully installed blosc2-2.6.2 cython-3.0.10 ndindex-1.8
